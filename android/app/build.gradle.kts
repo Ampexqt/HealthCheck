@@ -10,7 +10,7 @@ android {
     namespace = "com.example.health_check"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
-
+rea
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
